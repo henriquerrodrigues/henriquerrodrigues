@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Natural de Santo Ângelo - RS. Vim para Chapecó - SC, em busca de oportunidades e estudo com foco na área de Computação.<br><br>- 🔭 Estou trabalhando como analista de Infraestrutura e Sistemas.<br>- 📚 Atualmente, estudo para ser programador Web FullStack.<br>- 🏫 Estudante de Bacharelado na UFFS - Chapecó. <br>- ⚡ No tempo livre meus hobbies são: música, esportes e leitura.</p>
+<p align="left">Natural de Santo Ângelo - RS. Agora, residente em Chapecó - SC, em busca deoportunidades e estudo com foco na área de Computação.<br><br>- 🔭 Estou trabalhando como analista de Infraestrutura e Sistemas.<br>- 📚 Atualmente, estudo para ser programador Web FullStack.<br>- 🏫 Estudante de Bacharelado na UFFS - Chapecó. <br>- ⚡ No tempo livre meus hobbies são: música, esportes e leitura.</p>
 
 ###
 
