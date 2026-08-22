@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Natural de Santo Ângelo - RS. Agora, residente em Chapecó - SC, em busca deoportunidades e estudo com foco na área de Computação.<br><br>- 🔭 Estou trabalhando como estagiário em Desenvolvimento de Sistemas.<br>- 📚 Atualmente, estudo Go para microserviços e sistemas web com PHP<br>- 🏫 Estudante de Bacharelado na UFFS - Chapecó. <br>- ⚡ No tempo livre meus hobbies são: música, esportes e leitura.</p>
+<p align="left">Natural de Santo Ângelo - RS. Agora, residente em Chapecó - SC<br><br>- 🔭 Estou trabalhando como estagiário em Desenvolvimento de Sistemas.<br>- 📚 Atualmente, atuo com a linguagem Go para integrações entre sistemas ERP e rastreamento logístico e sistemas web com PHP para extras<br>- 🏫 Estudante de Bacharelado na UFFS - Chapecó. <br>- ⚡ No tempo livre meus hobbies são: música, esportes e leitura.</p>
 
 ###
 
@@ -36,27 +36,17 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
+  
 ###
 
 <h3 align="left">🔥   Minhas Estatísticas :</h3>
