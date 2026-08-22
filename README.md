@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Natural de Santo Ângelo - RS. Agora, residente em Chapecó - SC<br><br>- 🔭 Estou trabalhando como estagiário em Desenvolvimento de Sistemas.<br>- 📚 Atualmente, atuo com a linguagem Go para integrações entre sistemas ERP e rastreamento logístico e sistemas web com PHP para extras<br>- 🏫 Estudante de Bacharelado na UFFS - Chapecó. <br>- ⚡ No tempo livre meus hobbies são: música, esportes e leitura.</p>
+<p align="left">Natural de Santo Ângelo - RS. Agora, residente em Chapecó - SC<br><br>- 🔭 Sou júnior em uma que desenvolve sistemas e integrações na área de logística.<br>- 📚 Atualmente, atuo com a linguagem Go para integrações entre sistemas ERP e rastreamento logístico e sistemas web com PHP para extras<br>- 🏫 Estudante de Bacharelado na UFFS - Chapecó. <br>- ⚡ No tempo livre meus hobbies são: música, esportes e leitura.</p>
 
 ###
 
